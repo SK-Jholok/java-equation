@@ -1,6 +1,9 @@
 # java-euqation
 Finding the values of a equation 
 <br>
+
+ 
+ 
  public static void main(String[] args) {
      Scanner sc=new Scanner(System.in);
         System.out.println("Input the value of a,b,c=");
