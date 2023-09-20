@@ -1,6 +1,6 @@
 # java-euqation
 Finding the values of a equation 
 <br>
-Owerner- Shahdad Khan 
+Owerner- Shahdad Khan Jholok
  
  
